@@ -1,0 +1,29 @@
+_repo: Life-of-St.-Vincent-de-Paul_27706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forbes, F. A. (Frances Alice)
+    alias: Forbes, Frances Alice Monica
+    birthdate: 1869
+    deathdate: 1936
+    gutenberg_agent_id: '32859'
+    url: http://www.gutenberg.org/2009/agents/32859
+    wikipedia: http://en.wikipedia.org/wiki/F._A._Forbes
+description: ''
+gutenberg_issued: '2009-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vincent de Paul, Saint, 1581-1660'
+- !lcsh 'Christian saints -- Biography'
+- !lcc 'BX'
+title: Life of St. Vincent de Paul
+url: http://www.gutenberg.org/ebooks/27706
